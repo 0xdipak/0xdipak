@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Solidity, Block-chain, dApps etc.**
 
-- 📫 How to reach me **dipaksgarma34447255@gmail.com**
+- 📫 How to reach me **dipaksharma34447255@gmail.com**
 
 - ⚡ Fun fact **My medicine is coffee🍵**
 
