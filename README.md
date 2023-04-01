@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dipak Sharma</h1>
 <h3 align="center">Interested In Building web3 && Frontend</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xdipak&label=Profile%20views&color=0e75b6&style=flat" alt="0xdipak" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xdipak" alt="0xdipak" /></a> </p>
-
 - 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **TailwindCss, JavaScript, React, Blockchain, solidity etc.**
