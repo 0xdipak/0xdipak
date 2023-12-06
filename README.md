@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dipak Sharma</h1>
 <h3 align="center">Interested In Building web3 && Frontend</h3>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **zkEVM**
 
-- 💬 Ask me about **TailwindCss, JavaScript, React, Blockchain, solidity etc.**
+- 💬 Ask me about **TailwindCss, JavaScript, React, Blockchain, solidity, Rust etc.**
 
 - 📫 How to reach me **dipaksharma.me@gmail.com**
 
