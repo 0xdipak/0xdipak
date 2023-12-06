@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **zkEVM**
 
-- 💬 Ask me about **TailwindCss, JavaScript, React, Blockchain, solidity, Rust etc.**
+- 💬 Ask me about **.JS, .SOL & .RS**
 
 - 📫 How to reach me **dipaksharma.me@gmail.com**
 
