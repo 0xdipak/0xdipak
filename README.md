@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dipak Sharma</h1>
-<h3 align="center">Interested In Building web3 && Frontend</h3>
+<h3 align="center">Interested In Building web3</h3>
 
-- 🌱 I’m currently learning **zkEVM**
+- 🌱 I’m currently learning **not found**
 
-- 💬 Ask me about **.JS, .SOL & .RS**
+- 💬 Ask me about **.JS, .SOL & .RS bit of .clar**
 
 - 📫 How to reach me **dipaksharma.me@gmail.com**
 
